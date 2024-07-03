@@ -1,0 +1,11 @@
+<img src="https://d7.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png" alt="Pac-12 logo" title="Pac-12 Home">
+
+<form action="http://courses.washington.edu/bimd233/bimd.php" method="post">
+
+<!-- width="32" height="32" for all images -->
+"https://d7.pac-12.com/sites/default/files/styles/thumbnail/public/logo-washington-color-2019.png" 
+"https://d7.pac-12.com/sites/default/files/styles/thumbnail/public/washington-state-logo-color-out_2.png"
+"https://d7.pac-12.com/sites/default/files/styles/thumbnail/public/logo-stanford-color-2019.png"
+"https://d7.pac-12.com/sites/default/files/styles/thumbnail/public/logo-california-color-2019.png”
+"https://d7.pac-12.com/sites/default/files/styles/thumbnail/public/logo-oregon-state-color-2019.png"
+"https://d7.pac-12.com/sites/default/files/styles/thumbnail/public/logo-oregon-color-2019.png"
